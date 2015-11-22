@@ -1,2 +1,2 @@
 # DashboardJs
-Dashboard Usign ExtJs 4.2
+Dashboard Using ExtJs 4.2 And Hibernate 3
